@@ -16,3 +16,6 @@ function sayHiToGrandma(string) {
 function sayHiToGrandma(string) {
   mixedCase.toUpperCase()
 }
+function sayHiToGrandma(string).toEqual "I love you, too"{
+  else ("I love you, Grandma")
+}
